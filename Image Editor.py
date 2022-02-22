@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk,Image
-from tkinter import messagebox as messagebox
+from tkinter import messagebox as msgbox
 import os
 from tkinter import filedialog
 root=Tk()
